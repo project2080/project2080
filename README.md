@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hola, somos Project 2080 👋
+
+y somos especialistas en Planificación y Control de Proyectos.
+
+Ahora, damos el salto a GitHub, para compartir con la comunidad el valor que añadimos en la gestión de proyectos mediante el desarrollo de código y herramientas  específicas.
+
+Nuestra fuente de datos proviene de Primavera P6, a través de su base de datos o en formato de hoja de cálculo.
 
 <!--
 **project2080/project2080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
