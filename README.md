@@ -1,4 +1,6 @@
-# Hola, somos Project 2080 👋
+# Hola, somos [Project 2080](https://www.project2080.com) 👋
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCpzYFlSb9kH6Bs-PhZZLPhg)](https://www.youtube.com/channel/UCpzYFlSb9kH6Bs-PhZZLPhg?sub_confirmation=1)
 
 y somos especialistas en Planificación y Control de Proyectos.
 
